@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire" "3.1.3"
+github "thoughtbot/Argo" "v2.2.0"
+github "thoughtbot/Curry" "v1.4.0"
+github "cezheng/Fuzi" "0.3.0"
+github "koher/PromiseK" "2.2"
+github "thoughtbot/Runes" "v3.1.0"
